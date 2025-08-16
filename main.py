@@ -8,7 +8,7 @@ import subprocess
 
 from dotenv import load_dotenv
 
-from utils.json_init import init_json
+from utils.json_handle import init_json
 
 # 設定機器人
 intents = discord.Intents.all()
