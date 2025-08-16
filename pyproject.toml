@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11.13"
-dependencies = ["discord.py", "python-dotenv", "yt-dlp", "requests", "flask"]
+dependencies = [
+  "discord.py",
+  "python-dotenv",
+  "yt-dlp",
+  "requests",
+  "flask",
+  "pynacl",
+]
